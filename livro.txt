@@ -2,3 +2,6 @@ Esse é o livro do git e seus commits.
 
 Capítulo 1
 Versão avulsa e livre
+
+Capítulo 2
+Leve e divertido
