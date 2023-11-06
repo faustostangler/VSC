@@ -1,4 +1,4 @@
 Esse é o livro do git e seus commits. 
 
 Capítulo 1
-O livro conta uma história leve e divertida. Essa versão é o branch "light"
+Versão avulsa e livre
