@@ -1,4 +1,4 @@
 Esse é o livro do git e seus commits. 
 
 Capítulo 1
-Versão avulsa e livre
+Fresh start
